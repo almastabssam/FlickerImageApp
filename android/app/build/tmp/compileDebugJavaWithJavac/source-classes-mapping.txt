@@ -1,0 +1,14 @@
+com/flickerimage/MainApplication.java
+ com.flickerimage.MainApplication
+ com.flickerimage.MainApplication$1
+com/flickerimage/BuildConfig.java
+ com.flickerimage.BuildConfig
+com/flickerimage/ReactNativeFlipper.java
+ com.flickerimage.ReactNativeFlipper
+ com.flickerimage.ReactNativeFlipper$1
+ com.flickerimage.ReactNativeFlipper$2
+ com.flickerimage.ReactNativeFlipper$2$1
+com/flickerimage/MainActivity.java
+ com.flickerimage.MainActivity
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList

@@ -1,0 +1,6 @@
+module Pods_FlickerImage_FlickerImageTests {
+  umbrella header "Pods-FlickerImage-FlickerImageTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
