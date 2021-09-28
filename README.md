@@ -7,7 +7,7 @@ install node modues
 yarn install
 
 # Android
-1-import android project to android studio
+1-Import android project to android studio
 
 2-Sync the gradle files
 
@@ -15,17 +15,17 @@ yarn install
 
 4-yarnt start
 
-5-run the android app
+5-Run the android app
 
 
 
 # iOS 
-1-open the workspace in xcode
+1-Open the workspace in xcode
 
 2-Go to iOS folder from terminal
 
-3-install the pods
+3-Install the pods
 
 4-pod install
 
-5-run the ios app
+5-Run the ios app
