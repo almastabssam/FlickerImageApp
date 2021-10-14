@@ -125,5 +125,7 @@
     <orderEntry type="library" name="Gradle: com.facebook.fresco:nativeimagetranscoder:2.5.0@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.facebook.fresco:imagepipeline-okhttp3:2.5.0@aar" level="project" />
     <orderEntry type="library" name="Gradle: org.webkit:android-jsc:r250230@aar" level="project" />
+    <orderEntry type="module" module-name="FlickerImage.react-native-async-storage_async-storage" />
+    <orderEntry type="module" module-name="FlickerImage.react-native-fast-image" />
   </component>
 </module>

@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/FlickerImage.iml" filepath="$PROJECT_DIR$/.idea/modules/FlickerImage.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/FlickerImage.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/FlickerImage.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2014248280/FlickerImage.react-native-async-storage_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/-2014248280/FlickerImage.react-native-async-storage_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1174515741/FlickerImage.react-native-fast-image.iml" filepath="$PROJECT_DIR$/.idea/modules/1174515741/FlickerImage.react-native-fast-image.iml" />
     </modules>
   </component>
 </project>
